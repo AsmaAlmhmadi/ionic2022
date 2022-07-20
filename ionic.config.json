@@ -1,0 +1,7 @@
+{
+  "name": "FFC-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
